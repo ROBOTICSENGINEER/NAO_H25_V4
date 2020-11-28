@@ -94,7 +94,7 @@ H. Jahanshahi, M. Jafarzadeh, N. N. Sari, V.-T. Pham, V. V. Huynh, and X. Q. Ngu
 
 # License 
 
-Copyright (c) 2016, Mohsen Jafarzadeh
+Copyright (c) 2019, Mohsen Jafarzadeh
 
 All rights reserved.
 
